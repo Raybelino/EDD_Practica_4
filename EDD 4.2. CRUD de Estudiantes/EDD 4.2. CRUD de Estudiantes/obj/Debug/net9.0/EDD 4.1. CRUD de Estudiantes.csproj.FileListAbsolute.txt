@@ -1,0 +1,14 @@
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\bin\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.exe
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\bin\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.deps.json
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\bin\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.runtimeconfig.json
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\bin\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\bin\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.AssemblyInfoInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.AssemblyInfo.cs
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\refint\EDD 4.1. CRUD de Estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\EDD 4.1. CRUD de Estudiantes.genruntimeconfig.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.1. CRUD de Estudiantes\EDD 4.1. CRUD de Estudiantes\obj\Debug\net9.0\ref\EDD 4.1. CRUD de Estudiantes.dll

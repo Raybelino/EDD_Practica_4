@@ -1,0 +1,14 @@
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\bin\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.exe
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\bin\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.deps.json
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\bin\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.runtimeconfig.json
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\bin\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\bin\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.AssemblyInfoInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.AssemblyInfo.cs
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\refint\EDD 4.3. Procesamiento de Matriz.dll
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\EDD 4.3. Procesamiento de Matriz.genruntimeconfig.cache
+C:\Users\Jorge Rayber Acosta\Desktop\EDD. Practica 4\EDD 4.3. Procesamiento de Matriz\EDD 4.3. Procesamiento de Matriz\obj\Debug\net9.0\ref\EDD 4.3. Procesamiento de Matriz.dll

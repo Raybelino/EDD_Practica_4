@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EDD 4.2. CRUD de Estudiantes/1.0.0": {
+        "runtime": {
+          "EDD 4.2. CRUD de Estudiantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDD 4.2. CRUD de Estudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
