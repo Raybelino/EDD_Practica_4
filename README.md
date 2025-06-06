@@ -16,7 +16,7 @@ Simulador de una baraja de cartas utilizando programación orientada a objetos (
 - Se valida la cantidad de cartas a repartir según las disponibles.
 - Las cartas se eliminan del mazo una vez repartidas.
 
-### 2. Gestor ded estuduantes
+### 2. Gestor de estuduantes
 Sistema de gestión de estudiantes por consola, desarrollado con orientación a objetos. Permite agregar, modificar, eliminar y buscar estudiantes mediante un menú interactivo.
 
 - Se define una clase Estudiante con propiedades como matrícula, nombre, correo, etc.
