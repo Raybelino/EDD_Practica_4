@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EDD 4.3. Procesamiento de Matriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db54d2d71f343fafb18c7b0793e1b35a3e52745")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e54775ab6b4519ce207edb0de05631b8e4a4670")]
 [assembly: System.Reflection.AssemblyProductAttribute("EDD 4.3. Procesamiento de Matriz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EDD 4.3. Procesamiento de Matriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
